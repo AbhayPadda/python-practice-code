@@ -1,4 +1,7 @@
-Simple code in Python to solve the following problem: 
+## Simple code in Python to solve the following problem: 
+
+### Problem Statement
+
 There is a river with a boat and a bank on each side; that's how rivers work.
 On the left bank is a farmer with their wolf, goat and a cabbage.
 The farmer keeps the peace, they're like a horse whisperer but for goats.
